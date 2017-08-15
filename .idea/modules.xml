@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///mnt/bigdisk/git/Depender/Depender.iml" filepath="/mnt/bigdisk/git/Depender/Depender.iml" />
+      <module fileurl="file:///mnt/bigdisk/git/Depender/annotations/annotations.iml" filepath="/mnt/bigdisk/git/Depender/annotations/annotations.iml" />
+      <module fileurl="file:///mnt/bigdisk/git/Depender/app/app.iml" filepath="/mnt/bigdisk/git/Depender/app/app.iml" />
+      <module fileurl="file:///mnt/bigdisk/git/Depender/processor/Processor.iml" filepath="/mnt/bigdisk/git/Depender/processor/Processor.iml" />
+    </modules>
+  </component>
+</project>
